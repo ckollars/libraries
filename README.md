@@ -9,5 +9,5 @@ Links to useful libraries, articles and tools
 * https://github.com/aFarkas/lazysizes
 * https://github.com/desandro/imagesloaded
 
-### Animation
+### Easing examples
 * http://easings.net/
