@@ -8,3 +8,6 @@ Links to useful libraries, articles and tools
 ### Asset Loading
 * https://github.com/aFarkas/lazysizes
 * https://github.com/desandro/imagesloaded
+
+### Animation
+* http://easings.net/
