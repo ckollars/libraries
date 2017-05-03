@@ -1,0 +1,8 @@
+/**
+ * Detects if the element is not empty
+ * whitespace != empty
+ * psuedo elements == empty
+ */
+div:not(:empty) {
+  background: red;
+}
