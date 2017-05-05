@@ -11,3 +11,7 @@ Links to useful libraries, articles and tools
 
 ### Easing examples
 * http://easings.net/
+
+### Modals
+* https://www.npmjs.com/package/vanilla-modal
+* https://github.com/HubSpot/vex
