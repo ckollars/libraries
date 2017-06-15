@@ -15,3 +15,10 @@ Links to useful libraries, articles and tools
 ### Modals
 * https://www.npmjs.com/package/vanilla-modal
 * https://github.com/HubSpot/vex
+
+### Polyfills 
+- https://www.npmjs.com/package/picturefill
+- https://github.com/bfred-it/object-fit-images
+
+### CSS
+- https://www.npmjs.com/package/picturefill
